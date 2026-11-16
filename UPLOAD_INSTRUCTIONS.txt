@@ -1,0 +1,10 @@
+IRON FRONT - HOW TO UPLOAD
+
+1. Extract the ZIP onto your Mac.
+2. Open https://github.com/7q6jncc29f-lab/Iron-Front
+3. Select Add file > Upload files.
+4. Drag the contents of the extracted folder (index.html, src, assets) onto the upload page. Do NOT upload the ZIP itself.
+5. Commit changes to main.
+6. Open https://7q6jncc29f-lab.github.io/Iron-Front/ on your iPhone.
+
+NOTE: If GitHub uploads the files into a subfolder, move them to repository root; index.html must be at top level.
